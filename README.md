@@ -8,8 +8,9 @@
 
 <h2>Foto do projeto</h2>
 
-<img src="https://i.ibb.co/nn4fwcF/Captura-de-tela-de-2024-04-09-21-28-25.png" width="150px" height="90px"/>
-<img src="https://i.ibb.co/fYDTqgV/Captura-de-tela-de-2024-04-09-21-54-13.png" width="150px"/>
+<img src="https://i.ibb.co/nn4fwcF/Captura-de-tela-de-2024-04-09-21-28-25.png" width="350px"/>
+
+<img src="https://i.ibb.co/fYDTqgV/Captura-de-tela-de-2024-04-09-21-54-13.png" width="350px"/>
 
 ---
 
